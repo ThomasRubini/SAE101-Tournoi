@@ -1,0 +1,997 @@
+Entrer la seed : Début de la configuration des équipes
+Team A : 
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Team B : 
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Team C : 
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Team D : 
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Team E : 
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Team F : 
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Team G : 
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Team H : 
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Team I : 
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Team J : 
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Entrer prénom
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+Team K : 
+Entrer nom de famille (vide pour passer à l'équipe suivante)
+OK, fin de la configuration des équipes. 10 équipes.
+Let the games begin !
+
+Tour numéro 1 !
+
+Félix AUTANT et Antoine WELTER s'affronteront dans Shifumi
+Félix, a vous de jouer (pierre/feuille/ciseaux)
+Antoine, a vous de jouer (pierre/feuille/ciseaux)
+Antoine gagne
+Félix, a vous de jouer (pierre/feuille/ciseaux)
+Antoine, a vous de jouer (pierre/feuille/ciseaux)
+Antoine gagne
+Félix, a vous de jouer (pierre/feuille/ciseaux)
+Antoine, a vous de jouer (pierre/feuille/ciseaux)
+Antoine gagne
+Le score est de 0 : 3
+Antoine gagne !
+Maxime CONTINO et Noémie DJERIAN s'affronteront dans Shifumi
+Maxime, a vous de jouer (pierre/feuille/ciseaux)
+Noémie, a vous de jouer (pierre/feuille/ciseaux)
+Noémie gagne
+Maxime, a vous de jouer (pierre/feuille/ciseaux)
+Noémie, a vous de jouer (pierre/feuille/ciseaux)
+Noémie gagne
+Maxime, a vous de jouer (pierre/feuille/ciseaux)
+Noémie, a vous de jouer (pierre/feuille/ciseaux)
+Noémie gagne
+Le score est de 0 : 3
+Noémie gagne !
+Clément CARRE et Nathan VIGON s'affronteront dans Shifumi
+Clément, a vous de jouer (pierre/feuille/ciseaux)
+Nathan, a vous de jouer (pierre/feuille/ciseaux)
+Nathan gagne
+Clément, a vous de jouer (pierre/feuille/ciseaux)
+Nathan, a vous de jouer (pierre/feuille/ciseaux)
+Nathan gagne
+Clément, a vous de jouer (pierre/feuille/ciseaux)
+Nathan, a vous de jouer (pierre/feuille/ciseaux)
+Nathan gagne
+Le score est de 0 : 3
+Nathan gagne !
+Élisée LEYDIER et Nino LITIM s'affronteront dans Shifumi
+Élisée, a vous de jouer (pierre/feuille/ciseaux)
+Nino, a vous de jouer (pierre/feuille/ciseaux)
+Nino gagne
+Élisée, a vous de jouer (pierre/feuille/ciseaux)
+Nino, a vous de jouer (pierre/feuille/ciseaux)
+Nino gagne
+Élisée, a vous de jouer (pierre/feuille/ciseaux)
+Nino, a vous de jouer (pierre/feuille/ciseaux)
+Nino gagne
+Le score est de 0 : 3
+Nino gagne !
+Djibril RAMDANI et Rayane SABI s'affronteront dans Shifumi
+Djibril, a vous de jouer (pierre/feuille/ciseaux)
+Rayane, a vous de jouer (pierre/feuille/ciseaux)
+Rayane gagne
+Djibril, a vous de jouer (pierre/feuille/ciseaux)
+Rayane, a vous de jouer (pierre/feuille/ciseaux)
+Rayane gagne
+Djibril, a vous de jouer (pierre/feuille/ciseaux)
+Rayane, a vous de jouer (pierre/feuille/ciseaux)
+Rayane gagne
+Le score est de 0 : 3
+Rayane gagne !
+
+Tour numéro 2 !
+
+Maxime ALBERTELLI et Thibault DE PERMENTIER s'affronteront dans Puissance 4
+Au tour de Maxime
+       
+       
+       
+       
+       
+       
+1234567  Au tour de Thibault
+       
+       
+       
+       
+       
+  x    
+1234567  Au tour de Maxime
+       
+       
+       
+       
+       
+  xo   
+1234567  Au tour de Thibault
+       
+       
+       
+       
+  x    
+  xo   
+1234567  Au tour de Maxime
+       
+       
+       
+       
+  xo   
+  xo   
+1234567  Au tour de Thibault
+       
+       
+       
+  x    
+  xo   
+  xo   
+1234567  Au tour de Maxime
+       
+       
+       
+  xo   
+  xo   
+  xo   
+1234567         
+       
+  x    
+  xo   
+  xo   
+  xo   
+1234567  Maxime gagne !
+Maxime gagne !
+Frédéric EGENSCHEVILLER et Nicolas LAURENT s'affronteront dans Puissance 4
+Au tour de Frédéric
+       
+       
+       
+       
+       
+       
+1234567  Au tour de Nicolas
+       
+       
+       
+       
+       
+  x    
+1234567  Au tour de Frédéric
+       
+       
+       
+       
+       
+  xo   
+1234567  Au tour de Nicolas
+       
+       
+       
+       
+  x    
+  xo   
+1234567  Au tour de Frédéric
+       
+       
+       
+       
+  xo   
+  xo   
+1234567  Au tour de Nicolas
+       
+       
+       
+  x    
+  xo   
+  xo   
+1234567  Au tour de Frédéric
+       
+       
+       
+  xo   
+  xo   
+  xo   
+1234567         
+       
+  x    
+  xo   
+  xo   
+  xo   
+1234567  Frédéric gagne !
+Frédéric gagne !
+Nathan REBOUL et Sofian ZERKOUNI s'affronteront dans Puissance 4
+Au tour de Nathan
+       
+       
+       
+       
+       
+       
+1234567  Au tour de Sofian
+       
+       
+       
+       
+       
+  x    
+1234567  Au tour de Nathan
+       
+       
+       
+       
+       
+  xo   
+1234567  Au tour de Sofian
+       
+       
+       
+       
+  x    
+  xo   
+1234567  Au tour de Nathan
+       
+       
+       
+       
+  xo   
+  xo   
+1234567  Au tour de Sofian
+       
+       
+       
+  x    
+  xo   
+  xo   
+1234567  Au tour de Nathan
+       
+       
+       
+  xo   
+  xo   
+  xo   
+1234567         
+       
+  x    
+  xo   
+  xo   
+  xo   
+1234567  Nathan gagne !
+Nathan gagne !
+Louis DELOGU et Jules VOLPEI s'affronteront dans Puissance 4
+Au tour de Louis
+       
+       
+       
+       
+       
+       
+1234567  Au tour de Jules
+       
+       
+       
+       
+       
+  x    
+1234567  Au tour de Louis
+       
+       
+       
+       
+       
+  xo   
+1234567  Au tour de Jules
+       
+       
+       
+       
+  x    
+  xo   
+1234567  Au tour de Louis
+       
+       
+       
+       
+  xo   
+  xo   
+1234567  Au tour de Jules
+       
+       
+       
+  x    
+  xo   
+  xo   
+1234567  Au tour de Louis
+       
+       
+       
+  xo   
+  xo   
+  xo   
+1234567         
+       
+  x    
+  xo   
+  xo   
+  xo   
+1234567  Louis gagne !
+Louis gagne !
+Souhaïla MOUMANE et Melvin TOMEZAK s'affronteront dans Puissance 4
+Au tour de Souhaïla
+       
+       
+       
+       
+       
+       
+1234567  Au tour de Melvin
+       
+       
+       
+       
+       
+  x    
+1234567  Au tour de Souhaïla
+       
+       
+       
+       
+       
+  xo   
+1234567  Au tour de Melvin
+       
+       
+       
+       
+  x    
+  xo   
+1234567  Au tour de Souhaïla
+       
+       
+       
+       
+  xo   
+  xo   
+1234567  Au tour de Melvin
+       
+       
+       
+  x    
+  xo   
+  xo   
+1234567  Au tour de Souhaïla
+       
+       
+       
+  xo   
+  xo   
+  xo   
+1234567         
+       
+  x    
+  xo   
+  xo   
+  xo   
+1234567  Souhaïla gagne !
+Souhaïla gagne !
+
+Tour numéro 3 !
+
+Tibo DE PLANCKE et Gabriel LANGUILLE s'affronteront dans Pendu
+A ton tour Tibo
+Mot : ____
+
+Entrer un caractère : 
+Le mot contient la lettre 'c'
+Mot : c___
+
+Entrer un caractère : 
+Le mot contient la lettre 'h'
+Mot : ch__
+
+Entrer un caractère : 
+Le mot contient la lettre 'a'
+Mot : cha_
+
+Entrer un caractère : 
+Bravo, tu as gagné ! Mot : chat
+Il te restait 10 essais
+A ton tour Gabriel
+Mot : _____
+
+Entrer un caractère : 
+Le mot contient la lettre 'c'
+Mot : c____
+
+Entrer un caractère : 
+Le mot contient la lettre 'h'
+Mot : ch___
+
+Entrer un caractère : 
+Le mot contient la lettre 'i'
+Mot : chi__
+
+Entrer un caractère : 
+Le mot contient la lettre 'e'
+Mot : chie_
+
+Entrer un caractère : 
+Bravo, tu as gagné ! Mot : chien
+Il te restait 10 essais
+Les scores sont de 10:10
+Egalité !
+Habib BELKHODDAM et Frédéric EGENSCHEVILLER s'affronteront dans Pendu
+A ton tour Habib
+Mot : _____
+
+Entrer un caractère : 
+Le mot contient la lettre 'c'
+Mot : c____
+
+Entrer un caractère : 
+Le mot contient la lettre 'h'
+Mot : ch___
+
+Entrer un caractère : 
+Le mot contient la lettre 'i'
+Mot : chi__
+
+Entrer un caractère : 
+Le mot contient la lettre 'e'
+Mot : chie_
+
+Entrer un caractère : 
+Bravo, tu as gagné ! Mot : chien
+Il te restait 10 essais
+A ton tour Frédéric
+Mot : _____
+
+Entrer un caractère : 
+Le mot contient la lettre 'c'
+Mot : c____
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'h'. 9 essais restants
+Mot : c____
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'i'. 8 essais restants
+Mot : c____
+
+Entrer un caractère : 
+Le mot contient la lettre 'e'
+Mot : c___e
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'n'. 7 essais restants
+Mot : c___e
+
+Entrer un caractère : 
+Le mot contient la lettre 'r'
+Mot : cr__e
+
+Entrer un caractère : 
+Le mot contient la lettre 'a'
+Mot : cra_e
+
+Entrer un caractère : 
+Bravo, tu as gagné ! Mot : crabe
+Il te restait 7 essais
+Les scores sont de 10:7
+Habib gagne !
+Ramy NEGGAZI et Mathias CAZALS s'affronteront dans Pendu
+A ton tour Ramy
+Mot : _____
+
+Entrer un caractère : 
+Le mot contient la lettre 'c'
+Mot : __c__
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'h'. 9 essais restants
+Mot : __c__
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'i'. 8 essais restants
+Mot : __c__
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'e'. 7 essais restants
+Mot : __c__
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'n'. 6 essais restants
+Mot : __c__
+
+Entrer un caractère : 
+Le mot contient la lettre 'l'
+Mot : l_c__
+
+Entrer un caractère : 
+Le mot contient la lettre 'u'
+Mot : luc__
+
+Entrer un caractère : 
+Le mot contient la lettre 'c'
+Mot : luc__
+
+Entrer un caractère : 
+Le mot contient la lettre 'a'
+Mot : luca_
+
+Entrer un caractère : 
+Bravo, tu as gagné ! Mot : lucas
+Il te restait 6 essais
+A ton tour Mathias
+Mot : _____
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'l'. 9 essais restants
+Mot : _____
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'u'. 8 essais restants
+Mot : _____
+
+Entrer un caractère : 
+Le mot contient la lettre 'c'
+Mot : c____
+
+Entrer un caractère : 
+Le mot contient la lettre 'a'
+Mot : c_a__
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 's'. 7 essais restants
+Mot : c_a__
+
+Entrer un caractère : 
+Le mot contient la lettre 'c'
+Mot : c_a__
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'h'. 6 essais restants
+Mot : c_a__
+
+Entrer un caractère : 
+Le mot contient la lettre 'a'
+Mot : c_a__
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 't'. 5 essais restants
+Mot : c_a__
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'h'. 4 essais restants
+Mot : c_a__
+
+Entrer un caractère : 
+Le mot contient la lettre 'r'
+Mot : cra__
+
+Entrer un caractère : 
+Le mot contient la lettre 'b'
+Mot : crab_
+
+Entrer un caractère : 
+Bravo, tu as gagné ! Mot : crabe
+Il te restait 4 essais
+Les scores sont de 6:4
+Ramy gagne !
+Romain CLEMENT et Théo RUELLAN s'affronteront dans Pendu
+A ton tour Romain
+Mot : _____
+
+Entrer un caractère : 
+Le mot contient la lettre 'c'
+Mot : c____
+
+Entrer un caractère : 
+Le mot contient la lettre 'r'
+Mot : cr___
+
+Entrer un caractère : 
+Le mot contient la lettre 'a'
+Mot : cra__
+
+Entrer un caractère : 
+Le mot contient la lettre 'b'
+Mot : crab_
+
+Entrer un caractère : 
+Bravo, tu as gagné ! Mot : crabe
+Il te restait 10 essais
+A ton tour Théo
+Mot : _____
+
+Entrer un caractère : 
+Le mot contient la lettre 'c'
+Mot : __c__
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'r'. 9 essais restants
+Mot : __c__
+
+Entrer un caractère : 
+Le mot contient la lettre 'l'
+Mot : l_c__
+
+Entrer un caractère : 
+Le mot contient la lettre 'u'
+Mot : luc__
+
+Entrer un caractère : 
+Le mot contient la lettre 'c'
+Mot : luc__
+
+Entrer un caractère : 
+Le mot contient la lettre 'a'
+Mot : luca_
+
+Entrer un caractère : 
+Bravo, tu as gagné ! Mot : lucas
+Il te restait 9 essais
+Les scores sont de 10:9
+Romain gagne !
+Noémie DJERIAN et Marion VALLS s'affronteront dans Pendu
+A ton tour Noémie
+Mot : _____
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'c'. 9 essais restants
+Mot : _____
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'r'. 8 essais restants
+Mot : _____
+
+Entrer un caractère : 
+Le mot contient ne contient pas la lettre 'h'. 7 essais restants
+Mot : _____
+
+Entrer un caractère : 
+Le mot contient la lettre 't'
+Mot : t____
+
+Entrer un caractère : 
+Le mot contient la lettre 'a'
+Mot : ta___
+
+Entrer un caractère : 
+Le mot contient la lettre 'b'
+Mot : tab__
+
+Entrer un caractère : 
+Le mot contient la lettre 'l'
+Mot : tabl_
+
+Entrer un caractère : 
+Bravo, tu as gagné ! Mot : table
+Il te restait 7 essais
+A ton tour Marion
+Mot : _____
+
+Entrer un caractère : 
+Le mot contient la lettre 'c'
+Mot : c____
+
+Entrer un caractère : 
+Le mot contient la lettre 'h'
+Mot : ch___
+
+Entrer un caractère : 
+Le mot contient la lettre 'i'
+Mot : chi__
+
+Entrer un caractère : 
+Le mot contient la lettre 'e'
+Mot : chie_
+
+Entrer un caractère : 
+Bravo, tu as gagné ! Mot : chien
+Il te restait 10 essais
+Les scores sont de 7:10
+Marion gagne !
+
+Tour numéro 4 !
+
+Sacha TRAYNARD et Élisée LEYDIER s'affronteront dans Juste Prix
+42
+il faut trouver un nombre
+Sacha écrit ta proposition : Plus grand
+Élisée écrit ta proposition : Plus petit
+Sacha écrit ta proposition : Sacha gagne !
+Sacha gagne !
+Kevin GIRAULT et Antoine WELTER s'affronteront dans Juste Prix
+226
+il faut trouver un nombre
+Kevin écrit ta proposition : Plus petit
+Antoine écrit ta proposition : Plus grand
+Kevin écrit ta proposition : Kevin gagne !
+Kevin gagne !
+Alex SARTI et Félix AUTANT s'affronteront dans Juste Prix
+342
+il faut trouver un nombre
+Alex écrit ta proposition : Plus petit
+Félix écrit ta proposition : Plus grand
+Alex écrit ta proposition : Plus grand
+Félix écrit ta proposition : Plus grand
+Alex écrit ta proposition : Alex gagne !
+Alex gagne !
+Nathan REBOUL et Clémentine HENAULT s'affronteront dans Juste Prix
+16
+il faut trouver un nombre
+Nathan écrit ta proposition : Plus petit
+Clémentine écrit ta proposition : Plus petit
+Nathan écrit ta proposition : Plus grand
+Clémentine écrit ta proposition : Clémentine gagne !
+Clémentine gagne !
+Thomas DEJEAN et Nino LITIM s'affronteront dans Juste Prix
+6
+il faut trouver un nombre
+Thomas écrit ta proposition : Plus petit
+Nino écrit ta proposition : Nino gagne !
+Nino gagne !
+
+Tour numéro 5 !
+
+Lucas LEINER et Antony CILLEROS s'affronteront dans Pile ou Face
+Lucas gagne !
+Sacha TRAYNARD et Clément CARRE s'affronteront dans Pile ou Face
+Clément gagne !
+Nils SAADI et Enzo BONNIN s'affronteront dans Pile ou Face
+Nils gagne !
+Djibril RAMDANI et Maxime DELIN s'affronteront dans Pile ou Face
+Maxime gagne !
+Nathan VIGON et Jorick MICHEL s'affronteront dans Pile ou Face
+Nathan gagne !
+Fin ! Classement : 
+team H : 4 points
+team F : 4 points
+team D : 3 points
+team J : 3 points
+team E : 3 points
+team I : 2 points
+team A : 2 points
+team C : 1.5 points
+team G : 1.5 points
+team B : 1 points

@@ -1,0 +1,8 @@
+chat
+chien
+tortue
+lucas
+appartement
+crabe
+mur
+table
